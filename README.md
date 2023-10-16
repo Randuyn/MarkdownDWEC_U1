@@ -35,7 +35,7 @@ A continuación, se muestra una imagen insertada. La imagen está disponible en 
 ![Open Source](https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Opensource.svg/339px-Opensource.svg.png)
 
 ## Enlaces
-Esto es un [enlace a Google](https://www.google.es) .
+Esto es un [enlace a Google](https://www.google.es)
 
 ## Un pequeño consejo en forma de cita para finalizar...
 > No te preocupes si no funciona bien. Si todo estuviera correcto, serías despedido de tu trabajo.
